@@ -1,0 +1,119 @@
+
+/*1 + 1 + 1 + 1 + 1 + 10 + 1 + 1 + 1 + 1 + 1 + 1 + 100 + 100 = 2 1 11*/
+body > main > article section > p.coordenadores > p > p > article article section > p #umid > #a{
+
+}
+#id1 #id2 .classe1 .classe2{
+
+}
+
+
+/*1 + 1 + 1 + 1 + 10 = 14*/
+main > article section > p.coordenadores{
+
+}
+
+article > p{
+ margin-left: 12px;
+ margin-right: 12px;
+}
+
+/*1 + 100 + 1 + 1 + 1 + 10 = 114*/
+body #principal article section p.coordenadores{
+  background-color: yellow;
+}
+
+/*100 + 1 + 10 = 111*/
+#principal p.promocao{
+  padding: 12px;
+  border-bottom: 1px solid #000;
+  background-color: azure;
+}
+
+/*1 + 1 = 2*/
+article p{
+  padding: 12px;
+  border: solid 1px black;
+  background-color: aliceblue;
+}
+/*10*/
+.coordenadores{
+ text-align: center;
+}
+
+
+/* .curso, .novo-curso{
+  background-color: aliceblue;
+  padding: 12px;
+} */
+
+/*10*/
+/* .novo-curso{
+  color: violet;
+} */
+
+/* .curso{
+  background-color: aliceblue;
+  padding: 12px;
+}
+
+.novo-curso{
+  background-color: aliceblue;
+  padding: 12px;
+  color: violet;
+} */
+
+
+/*10*/
+/* .promocao{
+  text-align: center;
+  background-color: cornsilk;
+} */
+
+/*1 + 10 = 11*/
+/* p.promocao{
+  background-color: yellow;
+} */
+
+/*10*/
+/* .nova{
+  color: red;
+} */
+
+
+/*100*/
+/* #titulo{
+  color: gray;
+  background-color: aliceblue;
+  text-align: center;
+} */
+/*h1 {
+  color: gray;
+  background-color: aliceblue;
+  text-align: center;
+}*/
+
+/*1 + 100 = 101*/
+/* p#descricao {
+  text-align: center;
+  color: red;
+} */
+
+/*1*/
+/* p {
+  color: blue;
+  border: solid 1px black;
+} */
+
+/*1*/
+/* strong {
+  color: blueviolet;
+  background-color: aliceblue;
+} */
+
+/*1 + 100 + 10 = 111*/
+/* p#rodape.final-pagina {
+  background-color: #CCC;
+  padding: 12px;
+  text-align: center;
+} */
